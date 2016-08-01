@@ -48,6 +48,7 @@ module.exports = {
           'babel-loader'
         ]
       },
+      {test: /\.less$/, loader: "style!css!less"},
     ],
   },
   resolve: {

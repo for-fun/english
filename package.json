@@ -37,6 +37,9 @@
     "redux-actions": "^0.9.1"
   },
   "dependencies": {
-    "elemental": "^0.6.0"
+    "elemental": "^0.6.0",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "react-addons-css-transition-group": "^15.3.0"
   }
 }
